@@ -1,4 +1,11 @@
 {
+  "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+    "name": "Tether USD",
+    "logo": "usdt_tether.png",
+    "erc20": true,
+    "symbol": "USDT",
+    "decimals": 6
+  },
   "0x93a7174dafd31d13400cD9fa01f4e5B5BAa00D39": {
     "name": "Shaka",
     "logo": "hak.svg",
