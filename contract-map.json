@@ -6,6 +6,20 @@
     "symbol": "PLDAI",
     "decimals": 18
   },
+   "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
+    "name": "Compound COMP",
+    "logo": "comp.svg",
+    "erc20": true,
+    "symbol": "COMP",
+    "decimals": 18
+  },
+   "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9": {
+    "name": " Compound USDT",
+    "logo": "cusdt.svg",
+    "erc20": true,
+    "symbol": "cUSDT",
+    "decimals": 8
+  },
   "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
     "name": "PoolTogether Sai",
     "logo": "plsai.svg",
@@ -984,7 +998,7 @@
     "decimals": 18
   },
   "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E": {
-    "name": "Compound Basic Attention Token",
+    "name": "Basic Attention Token",
     "logo": "ctoken-bat.svg",
     "erc20": true,
     "symbol":"cBAT",
